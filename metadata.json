@@ -1,0 +1,8 @@
+{
+  "name": "AgroSmart AI - Modern Farming Suite",
+  "description": "A comprehensive, AI-powered agricultural management platform featuring crop disease detection, real-time market insights, smart weather forecasting, and an AI agronomist assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
